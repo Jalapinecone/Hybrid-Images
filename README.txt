@@ -1,1 +1,1 @@
-I think 8-10 is the best range for sigma values. I didn't implement variables for the other ones because I didn't read the submission instructions far in advance and just implemented functions as I saw fit.
+Creates a Hybrid image using the combination of the high pass and low pass of two images
